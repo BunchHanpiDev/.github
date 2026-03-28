@@ -1,4 +1,4 @@
-# 👋 嗨，我是 BunchHanpi !
+# 👋 你好，这里是一群憨批开发组!
 
 专注于 **Among Us** 模组开发、服务器后端优化以及技术文档编写的开发者。
 
@@ -10,10 +10,6 @@
 
 ### 技术栈 (Tech Stack)
 - **Languages:** C#, JavaScript, HTML/CSS
-
-### GitHub 统计 (Stats)
-![BunchHanpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BunchHanpiDev&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BunchHanpiDev&layout=compact&theme=transparent)
 
 ### 联系我们
 - **Discord:** [点击此处获取Discord频道](https://discord.gg/ueWSGvktXN)
