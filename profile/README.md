@@ -5,7 +5,7 @@
 ---
 
 ### 当前在做的
-- **SuperNewRoles汉化**: 负责非官方维护[TONX-Doc](https://github.com/BunchHanpiDev/SuperNewRoles_Schinese)的繁简汉化工作
+- **SuperNewRoles汉化**: 负责非官方维护[SNR](https://github.com/BunchHanpiDev/SuperNewRoles_Schinese)的繁简汉化工作
 - **Next-Impostor & Empostor**: 基于官方Impostor进行的优化服务器性能及Handshake逻辑。
 
 ### 技术栈 (Tech Stack)
